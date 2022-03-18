@@ -1,0 +1,58 @@
+{
+    "product_category":[
+        {
+            "id":"cateTH",
+            "name":"Thịt",
+            "desc":"Thịt tươi ngon",
+            "createdAt":"3/17/2022"
+        },
+        {
+            "id":"cateHS",
+            "name":"Hải sản",
+            "desc":"Hải sản tươi ngon",
+            "createdAt":"3/17/2022"
+        },
+        {
+            "id":"cateMA",
+            "name":"Mắm",
+            "desc":"Mắm tôm, mắm tép đủ cả",
+            "createdAt":"3/17/2022"
+        },
+        {
+            "id":"cateRC",
+            "name":"Rau-Củ-Quả",
+            "desc":"Rau củ quả tươi sạch",
+            "createdAt":"3/17/2022"
+        },
+        {
+            "id":"cateGV",
+            "name":"Rau củ gia vị",
+            "desc":"Đủ loại gia vị rau củ",
+            "createdAt":"3/17/2022"
+        },
+        {
+            "id":"cateTC",
+            "name":"Trái cây",
+            "desc":"Trái cây tươi sạch",
+            "createdAt":"3/17/2022"
+        },
+        {
+            "id":"cateHK",
+            "name":"Hạt sấy khô",
+            "desc":"Hạt sấy khô các thể loại",
+            "createdAt":"3/17/2022"
+        },
+        {
+            "id":"cateBK",
+            "name":"Bánh kẹo",
+            "desc":"Bánh kẹo các thể loại",
+            "createdAt":"3/17/2022"
+        },
+        {
+            "id":"cateK",
+            "name":"Hàng khô",
+            "desc":"Cửa hàng đồ khô",
+            "createdAt":"3/17/2022"
+        }
+    ]
+}

@@ -1,0 +1,389 @@
+{
+    "product":[
+        {
+            "id":"THL01",
+            "name":"Thịt heo",
+            "desc":"Thịt heo sạch tươi nguyên",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":60000,
+            "price_unit":"kg",
+            "category_id":"cateTH",
+            "discount_id":"VOUCHERNEW",
+            "quantity":100,
+            "image":"..."
+        },
+        {
+            "id":"THG01",
+            "name":"Thịt gà",
+            "desc":"Thịt gà sạch tươi nguyên",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":50000,
+            "price_unit":"kg",
+            "category_id":"cateTH",
+            "discount_id":"",
+            "quantity":100,
+            "image":"..."
+        },
+        {
+            "id":"THG02",
+            "name":"Thịt gà cao cấp",
+            "desc":"Thịt gà cao cấp tuyển chọn",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":690000,
+            "price_unit":"kg",
+            "category_id":"cateTH",
+            "discount_id":"DC10",
+            "quantity":70,
+            "image":"..."
+        },
+        {
+            "id":"THB01",
+            "name":"Thịt bò",
+            "desc":"Thịt bò tuyển chọn",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":100000,
+            "price_unit":"kg",
+            "category_id":"cateTH",
+            "discount_id":"DC5",
+            "quantity":70,
+            "image":"..."
+        },
+        {
+            "id":"THBE01",
+            "name":"Thịt bê",
+            "desc":"Thịt bê sạch 99,96%",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":69000,
+            "price_unit":"kg",
+            "category_id":"cateTH",
+            "discount_id":"",
+            "quantity":50,
+            "image":"..."
+        },
+        {
+            "id":"SNH01",
+            "name":"Sườn non heo",
+            "desc":"Chân giò được xem là phần thịt ngon nhất của con heo, thịt thơm, giòn, ngọt. Phần thịt lợn với nhiều thớ bắp cuộn lại rất đẹp mắt nên thường được chế biến các món luộc, hầm, om,…",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":195000,
+            "price_unit":"kg",
+            "category_id":"cateTH",
+            "discount_id":"DC5",
+            "quantity":50,
+            "image":"..."
+        },
+        {
+            "id":"CGH01",
+            "name":"Chân giò heo",
+            "desc":"Chân giò trắng bóc búng ra sữa. Chân giò được xem là phần thịt ngon nhất của con heo, thịt thơm, giòn, ngọt. Phần thịt lợn với nhiều thớ bắp cuộn lại rất đẹp mắt nên thường được chế biến các món luộc, hầm, om,…",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":160000,
+            "price_unit":"kg",
+            "category_id":"cateTH",
+            "discount_id":"DC10",
+            "quantity":80,
+            "image":"..."
+        },
+        {
+            "id":"BR1N01",
+            "name":"Ba rọi một nắng KrongPa",
+            "desc":"Ba rọi một nắng Krongpa (Ba chỉ một nắng) là đặt sản của xứ chảo lửa Krông Pa đã làm nức lòng thực khách bốn phương.",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":135000,
+            "price_unit":"set",
+            "category_id":"cateTH",
+            "discount_id":"",
+            "quantity":100,
+            "image":"..."
+        },
+        {
+            "id":"B1N01",
+            "name":"Bò một nắng Krông Pa loại 0.5Kg",
+            "desc":"",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":350000,
+            "price_unit":"set",
+            "category_id":"cateTH",
+            "discount_id":"DC4",
+            "quantity":80,
+            "image":"..."
+        },
+        {
+            "id":"B1N02",
+            "name":"Bò một nắng Krông Pa loại 0.5Kg",
+            "desc":"",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":650000,
+            "price_unit":"set",
+            "category_id":"cateTH",
+            "discount_id":"",
+            "quantity":50,
+            "image":"..."
+        },
+        {
+            "id":"CABM01",
+            "name":"Cá bạc má",
+            "desc":"Cá có chiếc má bị bạc",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":125000,
+            "price_unit":"kg",
+            "category_id":"cateHS",
+            "discount_id":"DC5",
+            "quantity":100,
+            "image":"..."
+        },
+        {
+            "id":"CABD01",
+            "name":"Cá bống đục",
+            "desc":"",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price_unit":"kg",
+            "price":200000,
+            "category_id":"cateHS",
+            "discount_id":"",
+            "quantity":70,
+            "image":"..."
+        },
+        {
+            "id":"CABC01",
+            "name":"Cá bớp cắt lát",
+            "desc":"Cá Bớp hay còn gọi là cá Bóp, cá Bốp. Thịt cá bớp cắt khoanh có màu trắng, ngọt, dai, đặc biệt lớp da dầy, dẻo, ăn béo và không tanh, đầu cá chứa nhiều sụn ngon có hạng",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":150000,
+            "price_unit":"kg",
+            "category_id":"cateHS",
+            "discount_id":"",
+            "quantity":90,
+            "image":"..."
+        },
+        {
+            "id":"CACHLS01",
+            "name":"Cá chai làm sạch",
+            "desc":"Cá chai tươi ngoài phần thịt thơm ngon, phần xương hàm của cá vì thịt ở đấy mềm và ngọt. Thịt cá chai có nhiều canxi, vitamin D tự nhiên.",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":110000,
+            "price_unit":"set",
+            "category_id":"cateHS",
+            "discount_id":"DC10",
+            "quantity":100,
+            "image":"..."
+        },
+        {
+            "id":"CACA01",
+            "name":"Cá cam",
+            "desc":"",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":130000,
+            "price_unit":"kg",
+            "category_id":"cateHS",
+            "discount_id":"DC10",
+            "quantity":50,
+            "image":"..."
+        },
+        {
+            "id":"MACL01",
+            "name":"Mắm cá linh (hũ 0.5kg)",
+            "desc":"Mắm cá linh nguyên con là loại mắm được làm từ những con cá linh được thiên nhiên ban tặng vùng đất miền miền tây Nam Bộ.",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":90000,
+            "price_unit":"hũ",
+            "category_id":"cateHS",
+            "discount_id":"DC10",
+            "quantity":100,
+            "image":"..."
+        },
+        {
+            "id":"MACL02",
+            "name":"Mắm cá lóc (hũ 0.5kg)",
+            "desc":"Hương vị của mắm cá lóc cắt khúc hoàn toàn không khác gì mắm cá lóc nguyên con mở hủ mắm ra là rất thơm, con mắm có màu đỏ tự nhiên, mềm rã xương, mắm không quá mặn mà rất vừa ăn là mắm ngon.",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":130000,
+            "price_unit":"hũ",
+            "category_id":"cateHS",
+            "discount_id":"DC10",
+            "quantity":100,
+            "image":"..."
+        },
+        {
+            "id":"RAMU01",
+            "name":"Rau muống sạch",
+            "desc":"",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":8000,
+            "price_unit":"mớ",
+            "category_id":"cateRC",
+            "discount_id":"",
+            "quantity":100,
+            "image":"..."
+        },
+        {
+            "id":"BCAI01",
+            "name":"Rau bắp cải",
+            "desc":"",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":20000,
+            "price_unit":"kg",
+            "category_id":"cateRC",
+            "discount_id":"",
+            "quantity":100,
+            "image":"..."
+        },
+        {
+            "id":"VIQ01",
+            "name":"Việt quất",
+            "desc":"Việt Quất New Zealand (Blueberry) được cung cấp tại các cửa hàng trên toàn hệ thống.Việt Quất được nhập khẩu từ New Zealand và vận chuyển bằng đường hàng không, được đóng gói thành các hộp có trọng lượng 125g sau đó 12 hộp nhỏ này được đựng trong các hộp carton, Việt Quất thuộc họ Thạch nam, dạng thân bụi, có hình dạng khá giống với quả sim của Việt Nam, quả có màu đậm, gần như đen với một chút ánh tía, thịt quả có màu đỏ hoặc ngả tím. Quả Việt quất có vị ngọt thanh, mới ăn có thể thấy hơi chát, sau quen rồi lại thấy hấp dẫn vô cùng. Việt quất là loại hoa quả nhập khẩu ngoài việc rất ngon miệng còn mang lại ích lợi cho sức khỏe đến không ngờ bởi nó nhiều và đa dạng các thành phần dinh dưỡng. Quả việt quất New Zealand chứa nhiều anhthocyanidins giúp tăng cường hệ miễn dịch cũng như vô hiệu hóa các gốc tự do dẫn đến ung thư hay các bệnh liên quan đến tuổi tác. Việt Quất có giá tương đối cao so với các loại hoa quả nhập khẩu khác do vậy chỉ được bán tại các cửa hàng hoa quả nhập khẩu cao cấp. Ngọc Châu fruits cung cấp Quả việt quất New Zealand từ tháng 11 - tháng 3 năm sau, đây cũng là mùa vụ của loại quả này. ",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":150000,
+            "price_unit":"kg",
+            "category_id":"cateTC",
+            "discount_id":"",
+            "quantity":100,
+            "image":"..."
+        },
+        {
+            "id":"KWV01",
+            "name":"Kiwi vàng New Zealand",
+            "desc":"Trên thị trường còn có một số loại kiwi vàngcủa Italya, kiwi vàng của Hàn Quốc, ... tuy nhiên chất lượng không thể nào ngon bằng kiwi vàng trồng tại New zealand. Quả Kiwi trên thế giới có 3 loại là kiwi vàng, kiwi xanh và kiwi đỏ, người ta nhắc nhiều tới kiwi vàng và kiwi xanh hơn vì tính phổ biến của chúng và được cung cấp nhiều tại các cửa hàng hoa quả nhập khẩu cao cấp ở Việt Nam",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":299000,
+            "price_unit":"kg",
+            "category_id":"cateTC",
+            "discount_id":"DC5",
+            "quantity":120,
+            "image":"..."
+        },
+        {
+            "id":"NHSH01",
+            "name":"Nho sữa Hàn Quốc",
+            "desc":"Nho sữa Hàn Quốc là giống nho shine Muscat có xuất xứ từ Nhật Bản, đây được coi là một trong những loại nho ngon xuất sắc nhất trên thế giới, Nho sữa Hàn Quốc cùng với các loại dưa lê Hàn Quốc, Hồng dẻo Hàn Quốc, Lê Hàn Quốc là các loại hoa quả nhập khẩu cao cấp của Hàn Quốc tại thị trường Việt Nam. Nho sữa Hàn Quốc có mùi thơm đặc trưng, dù thưởng thức một lần cũng không bao giờ quên hương vị của nó, nho giàu giá trị dinh dưỡng, được dùng nhiều làm quà biếu, quà tặng sang trọng trong các dịp lễ tết, thăm hỏi. Hệ thống cửa hàng Trái cây Ngọc Châu cung cấp nho sữa Hàn Quốc tại Hà Nội vào khoảng thời gian từ tháng 7 đến tháng 12 hàng năm và đây cũng là mùa của nho sữa Hàn",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":1300000,
+            "price_unit":"kg",
+            "category_id":"cateTC",
+            "discount_id":"",
+            "quantity":80,
+            "image":"..."
+        },
+        {
+            "id":"TAEV01",
+            "name":"Táo Envy",
+            "desc":"Táo envy Mỹ có rất nhiều size, như size 18, size 24, size 50, size 55, size 60, size 90,... size 50 tức là 50 quả/thùng 12kg, mỗi quả có trọng lượng khoảng 0.2 kg. Đối với size 18 thì trọng lượng quả lên tới 0.5kg/quả. Size 50 này là size nhỡ, ở mức trung giữa các size của táo. Đây là dòng táo ngon xuất sắc, nổi tiếng của Mỹ, thưởng thức một lần là nhớ mãi vị ngọt đến cuống họng, độ giòn của nó thì không có loại táo nào sánh nổi.",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":300000,
+            "price_unit":"kg",
+            "category_id":"cateTC",
+            "discount_id":"DC5",
+            "quantity":50,
+            "image":"..."
+        },
+        {
+            "id":"CARD01",
+            "name":"Cam ruột đỏ Úc",
+            "desc":"Cam có xuất xứ từ vùng Valencia - Venezuela, du nhập sang mỹ vào năm 1987 và sau đó đến tay người trồng vườn của nước úc. Thích hợp trồng ở các vùng có điều kiện khí hậu ấm áp với nhiệt độ trung bình từ 23 đến 29 độ, cây bắt đầu thu hoạch khoảng 3 năm gieo trồng có năng suất thu hoạch cao, không kén đất và ít sâu bệnh. Cam cho quả to, có trọng lượng mỗi quả từ 180g đến 250g có vỏ ngoài màu vàng đậm. Khi bổ đôi quả cam ra bạn sẽ thấy không như các giống cam khác, cam cara có nước và thịt màu đỏ vị ngọt, mọng nước và không có hạt. Cam có mùi thơm đặc trưng rất quyến rũ.",
+            "product_info":{
+                "info1":"",
+                "info2":"",
+                "info3":""
+            },
+            "price":230000,
+            "price_unit":"kg",
+            "category_id":"cateTC",
+            "discount_id":"DC10",
+            "quantity":80,
+            "image":"..."
+        }
+
+    ]
+}
